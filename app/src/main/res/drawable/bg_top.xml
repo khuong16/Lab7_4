@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <corners android:bottomLeftRadius="100dp" />
+
+    <gradient
+        android:angle="135"
+        android:startColor="@color/orangeMid"
+        android:endColor="@color/orange"
+        android:type="linear" />
+    <!--        angle phải là bội số của 45 độ-->
+</shape>
